@@ -1,0 +1,9 @@
+.Box {
+    margin: 40px;
+    border: 2px solid black;
+  }
+  
+.Box_content {
+    font-size: 16px;
+    text-align: center;
+}
